@@ -1,0 +1,124 @@
+*{margin: 0;}
+table{
+    width: 100%;
+    height: 100vh;
+}
+#tr1{
+    background-color: #343434;
+    border: none;
+    border-collapse: collapse;
+    color: white;
+    text-align: left;
+}
+#logometa{
+
+    background-image: url(Logo_Meta_Tech_1.webp);
+    background-size: cover;
+    background-position: center;
+    height: 60px;
+    width: 5%;
+    border: none;
+}
+#home{
+    padding-left: 5%;
+    color: white;
+    font-family: "Anek Latin", sans-serif;
+}
+#quemsomos{
+    padding-left: 5%;
+    font-family: "Anek Latin", sans-serif;
+}
+#contato{
+    padding-left: 5%;
+    font-family: "Anek Latin", sans-serif;
+}
+.corazul{
+    background-color: #348ABF;
+    height: 5vh;
+}
+#lupa{
+    width: 4%;
+    text-align: right;
+    padding-right: 10px;
+}
+#input{
+    width: 80%;
+    height: 2vh;  
+}
+#barradepesquisa>div{
+    position: relative;
+    
+}
+.corpreto{
+    background-color: black;
+}
+#publicidadetexto{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 0%;
+    width: 10px;
+    height: 10px;
+    font-family: "Anek Latin", sans-serif;
+
+    }
+    .meta{
+        background-color: #A3C9D9;
+        height: 5vh;
+        width: 100px;
+        
+    }
+    #gaymer{
+        background-image: url(cringe.webp);
+        background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 15%;
+            height: 300px;
+            padding: 0%;
+    }
+    #velho{
+        background-image: url(harez.webp);
+        background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 15%;
+            height: 300px;
+            padding: 0%;
+    }
+    #benio{
+        background-image: url(outro.webp);
+        background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 15%;
+            height: 300px;
+            padding: 0%;
+    }
+    #bat{
+        background-image: url(hetero.webp);
+        background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 15%;
+            height: 300px;
+            padding: 0%;
+    }
+    #publicidade1{
+        background-image: url(olx.webp);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: black;
+        width: 400px;
+    height: 30%;
+    }
+#publicidade2{
+        background-image: url(tigrinho.webp);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: black;
+        width: 60px;
+    height: 250px;
+    }

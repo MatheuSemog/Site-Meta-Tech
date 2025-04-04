@@ -1,0 +1,101 @@
+*{margin: 0;}
+table{
+    width: 100%;
+    height: 100vh;}
+#tr1{
+        background-color: #343434;
+        border: none;
+        border-collapse: collapse;
+        color: white;
+        text-align: left;
+    }
+    .corazul{
+        background-color: #348ABF;
+        height: 5vh;
+    }
+
+#logometa{
+
+        background-image: url(Logo_Meta_Tech_1.webp);
+        background-size: cover;
+        background-position: center;
+        height: 60px;
+        width: 5%;
+        border: none;
+    }
+    #home{
+        padding-left: 5%;
+        color: white;
+        font-family: "Anek Latin", sans-serif;
+    }
+    #quemsomos{
+        padding-left: 5%;
+        font-family: "Anek Latin", sans-serif;
+    }
+    #contato{
+        padding-left: 5%;
+        font-family: "Anek Latin", sans-serif;}
+    #lupa{
+            width: 4%;
+            text-align: right;
+            padding-right: 10px;
+        }
+        #input{
+            width: 80%;
+            height: 2vh;  
+        }
+        #barradepesquisa>div{
+            position: relative;
+            
+        }
+        .corpreto{
+            background-color: black;
+        }
+        #forms{
+            background-color: #A3C9D9;
+            text-align: left;
+            width: 50%;
+            font-size: 20px;
+            font-family: "Anek Latin", sans-serif;
+                  
+        }
+        #publicidadetexto{
+            background-color: black;
+            color: white;
+            text-align: center;
+            padding: 0%;
+            width: 10px;
+            height: 10px;
+            font-family: "Anek Latin", sans-serif;}
+        #publicidade1{
+                background-image: url(publicidade2.webp);
+                background-size: contain;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-color: black;
+                width: 50px;
+            height: 30%;
+            }
+        #publicidade2{
+                background-image: url(Publicidade3.webp);
+                background-size: contain;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-color: black;
+                width: 60px;
+            height: 20%;
+            }
+            #tr8{
+                height: 1vh;
+            }
+            #barras{
+                text-align: center;
+            }
+            #tr5{
+                height: 5vh;
+            }
+            #assunto{
+                width: 400px;
+                height: 400px;
+
+            }

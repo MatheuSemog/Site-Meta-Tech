@@ -1,0 +1,120 @@
+*{margin: 0;}
+table{
+    width: 100%;
+    height: 100vh;}
+    #tr1{
+        background-color: #343434;
+        border: none;
+        border-collapse: collapse;
+        color: white;
+        text-align: left;
+    }
+
+    #logometa{
+
+        background-image: url(Logo_Meta_Tech_1.webp);
+        background-size: cover;
+        background-position: center;
+        height: 60px;
+        width: 5%;
+        border: none;
+    }
+    .corazul{
+        background-color: #348ABF;
+        height: 5vh;
+    }
+        #input{
+            width: 80%;
+            height: 2vh;  
+        }
+        #barradepesquisa>div{
+            position: relative;
+            
+        }
+        #user{
+            font-size: 35px;
+        }
+        #user{
+            text-align: right;
+            padding-right: 10px;
+        }
+        #home{
+            padding-left: 5%;
+            color: white;
+            font-family: "Anek Latin", sans-serif;
+        }
+        #quemsomos{
+            padding-left: 5%;
+            font-family: "Anek Latin", sans-serif;
+        }
+        #contato{
+            padding-left: 5%;
+            font-family: "Anek Latin", sans-serif;
+        }
+        #lupa{
+            width: 4%;
+            text-align: right;
+            padding-right: 10px;
+        }
+        .corpreto{
+            background-color: black;
+        }
+        #meta{
+            background-color: #A3C9D9;
+            text-align: center;
+            font-family: "Anek Latin", sans-serif;
+            font-size: 49px;
+            
+        }
+        #muchotexto{
+            color: white;
+            text-align: left;
+            font-size: 25px;
+            width: 60%;
+            font-family: "Anek Latin", sans-serif;
+            font-size: 26px;
+            }
+        #carrossel{
+            background-image: url(imagem1_carrossel.webp);
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 50px;
+            height: 5px;
+            padding: 0%;
+            background-color: black;
+        }
+        #arrow1{
+            padding: 0%;
+            text-align: right;
+            width: 10px;
+            height: 10px;
+            font-size: 20px;
+            color: white;
+        }
+        #arrow2{
+            padding: 0%;
+            text-align: left;
+            width: 10px;
+            height: 10px;
+            font-size: 20px;
+            color: white;
+        }
+        #publicidadetexto{
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 0%;
+        width: 10px;
+        height: 10px;
+        font-family: "Anek Latin", sans-serif;
+
+        }
+        #publicidade{
+            background-image: url(publicidade1.webp);
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-color: black;
+        }
+        
